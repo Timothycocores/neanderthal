@@ -8,18 +8,20 @@ background-repeat: no-repeat bottom center fixed;
   background-size: cover;;
 background-repeat: no-repeat;
 background-size: 100%;
+
 }
 
 .pageTitle{
 	text-align: center;
+	color: white;
 
 }
 
 .ageBox{
 	height: 250px;
 	width: 500px;
-	background-color: grey;
+	background-color: white;
 	text-align: center;
-	margin-left: 35%;
-	margin-top: 20%;
+	margin-left: 30%;
+	margin-top: 10%;
 }
