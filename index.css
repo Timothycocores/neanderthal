@@ -1,0 +1,16 @@
+body{
+	background-image: url("http://www.tiptheme.com/wp-content/uploads/2015/07/paper-background-7.jpg");
+}
+
+.navbar-header{
+	background-color: white;
+}
+
+.pageTitle{
+	margin-top: 30px;
+	text-align: center;
+}
+
+.tagline{
+	text-align: center;
+}
