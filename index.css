@@ -9,3 +9,17 @@ background-repeat: no-repeat bottom center fixed;
 background-repeat: no-repeat;
 background-size: 100%;
 }
+
+.pageTitle{
+	text-align: center;
+
+}
+
+.ageBox{
+	height: 250px;
+	width: 500px;
+	background-color: grey;
+	text-align: center;
+	margin-left: 35%;
+	margin-top: 20%;
+}
